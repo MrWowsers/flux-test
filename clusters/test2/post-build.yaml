@@ -8,4 +8,4 @@ spec:
   postBuild:
     substitute:
       GW_CLUSTER: my-cluster
-
+      TEST: test

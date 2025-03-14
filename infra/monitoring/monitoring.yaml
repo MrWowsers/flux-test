@@ -16,3 +16,4 @@ spec:
   postBuild:
     substitute:
       GW_CLUSTER: ${GW_CLUSTER}
+      TEST: ${TEST}
