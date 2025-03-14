@@ -10,3 +10,4 @@ spec:
       GW_CLUSTER: my-cluster
       TEST: test
       TEST2: abcde
+      TEST3: last

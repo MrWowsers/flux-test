@@ -18,3 +18,4 @@ spec:
       GW_CLUSTER: ${GW_CLUSTER}
       TEST: ${TEST}
       TEST2: ${TEST2}
+      TEST3: ${TEST3}
