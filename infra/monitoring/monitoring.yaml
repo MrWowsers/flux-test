@@ -19,3 +19,4 @@ spec:
       TEST: ${TEST}
       TEST2: ${TEST2}
       TEST3: ${TEST3}
+      TEST4: ${TEST4}
