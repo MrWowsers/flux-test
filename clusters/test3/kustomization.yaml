@@ -3,3 +3,5 @@ kind: Kustomization
 resources:
   - flux-system
   - ./infra.yaml
+patches:
+  - path: ./infra/post-build.yaml
