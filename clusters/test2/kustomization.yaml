@@ -4,4 +4,4 @@ resources:
   - flux-system
   - ./infra.yaml
 patches:
-  - path: ./post-build.yaml
+  - path: ./infra/post-build.yaml
